@@ -12,6 +12,7 @@ To visualize and analyze BigBasket's sales data, focusing on:
  - <a href="https://github.com/Rupali-2001/-BigBasket-Sales-Analysis/blob/main/bigbasket_orders_dataset.csv">Dataset</a>
  
 ## 📌 Key Business Questions Answered
+
 1. What is the total revenue across product categories and brands?
 2. Who are the top 5 revenue-generating products?
 3. Revenue and discount distributions by Region?
