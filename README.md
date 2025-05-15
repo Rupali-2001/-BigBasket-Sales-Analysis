@@ -20,3 +20,5 @@ To visualize and analyze BigBasket's sales data, focusing on:
 7. What is the Average Revenue?
 9. What is the Average Rating?
 10. What is the total order count?
+
+
